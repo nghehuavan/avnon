@@ -1,0 +1,34 @@
+{
+	"LEFT-NAVIGATION": {
+		"NEWS": "NOUVELLES",
+		"PROGRAMS": "PROGRAMMES",
+		"EVENTS": "ÉVÉNEMENTS",
+		"ACTIVITIES": "ACTIVITÉS",
+		"CHAT": "BAVARDER"
+	},
+  "EXPLORE": {
+    "COMPANIES": "Companies",
+    "PEOPLE": "People",
+    "OPPORTUNITIES": "Opportunities",
+    "EVENTS": "Events"
+  },
+	"CHAT-GROUP-ADD": {
+		"HEADING": "Ajouter un chat en groupe",
+		"UPDATE-HEADING": "Modifier le groupe",
+		"TITLE-LABEL": "Titre du groupe",
+		"TITLE-PLACEHOLDER": "Veuillez entrer le titre",
+		"DESCRIPTION-LABEL": "Description du groupe",
+		"DESCRIPTION-PLACEHOLDER": "Veuillez saisir une description",
+		"GROUP-LABEL": "Les membres du groupe",
+		"GROUP-PLACEHOLDER": "Veuillez sélectionner un membre du groupe",
+		"SUBMIT": "Soumettre"
+	},
+	"USER-SETTINGS": {
+		"TITLE": "Paramètres utilisateur",
+		"LANGUAGE": "Langue",
+		"CURRENCY": "Devise",
+		"TIMEZONE": "Fuseau horaire",
+		"RESET": "Réinitialiser mon mot de passe",
+		"SUBMIT": "Soumettre"
+	}
+}

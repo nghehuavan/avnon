@@ -1,0 +1,34 @@
+{
+	"LEFT-NAVIGATION": {
+		"NEWS": "أخبار",
+		"PROGRAMS": "البرامج",
+		"EVENTS": "الأحداث",
+		"ACTIVITIES": "أنشطة",
+		"CHAT": "دردشة"
+	},
+  "EXPLORE": {
+    "COMPANIES": "Companies",
+    "PEOPLE": "People",
+    "OPPORTUNITIES": "Opportunities",
+    "EVENTS": "Events"
+  },
+	"CHAT-GROUP-ADD": {
+		"HEADING": "إضافة دردشة جماعية",
+		"UPDATE-HEADING": "تحرير المجموعة",
+		"TITLE-LABEL": "عنوان المجموعة",
+		"TITLE-PLACEHOLDER": "الرجاء إدخال العنوان",
+		"DESCRIPTION-LABEL": "وصف المجموعة",
+		"DESCRIPTION-PLACEHOLDER": "الرجاء إدخال الوصف",
+		"GROUP-LABEL": "أعضاء المجموعة",
+		"GROUP-PLACEHOLDER": "الرجاء تحديد عضو المجموعة",
+		"SUBMIT": "إرسال"
+	},
+	"USER-SETTINGS": {
+		"TITLE": "إعدادات المستخدم",
+		"LANGUAGE": "اللغة",
+		"CURRENCY": "العملة",
+		"TIMEZONE": "المنطقة الزمنية",
+		"RESET": "إعادة تعيين كلمة المرور الخاصة بي",
+		"SUBMIT": "إرسال"
+	}
+}

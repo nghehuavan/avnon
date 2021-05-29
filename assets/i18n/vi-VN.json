@@ -1,0 +1,35 @@
+{
+	"LEFT-NAVIGATION": {
+		"NEWS": "TIN TỨC",
+		"PROGRAMS": "CÁC CHƯƠNG TRÌNH",
+		"EVENTS": "SỰ KIỆN",
+		"ACTIVITIES": "HOẠT ĐỘNG",
+		"CHAT": "TRÒ CHUYỆN"
+	},
+  "EXPLORE": {
+    "COMPANIES": "Các công ty",
+    "PEOPLE": "Mọi người",
+    "OPPORTUNITIES": "Những cơ hội",
+    "EVENTS": "Sự kiện",
+    "FILTERS": "Filters"
+  },
+	"CHAT-GROUP-ADD": {
+		"HEADING": "Thêm trò chuyện nhóm",
+		"UPDATE-HEADING": "Chỉnh sửa nhóm",
+		"TITLE-LABEL": "Tiêu đề nhóm",
+		"TITLE-PLACEHOLDER": "Vui lòng nhập tiêu đề",
+		"DESCRIPTION-LABEL": "Mô tả nhóm",
+		"DESCRIPTION-PLACEHOLDER": "Vui lòng nhập mô tả",
+		"GROUP-LABEL": "Thành viên nhóm",
+		"GROUP-PLACEHOLDER": "Vui lòng chọn thành viên nhóm",
+		"SUBMIT": "Gửi đi"
+	},
+	"USER-SETTINGS": {
+		"TITLE": "Cài đặt người dùng",
+		"LANGUAGE": "Ngôn ngữ ngôn ngữ",
+		"CURRENCY": "Tiền tệ",
+		"TIMEZONE": "Múi giờ",
+		"RESET": "Đặt lại mật khẩu của tôi",
+		"SUBMIT": "Gửi đi"
+	}
+}
